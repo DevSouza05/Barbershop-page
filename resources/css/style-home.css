@@ -1,49 +1,49 @@
 
   *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
 }
 
   .menu{
-    text-align: center;
-    background: #949292;
-    border-bottom:solid ;
+      text-align: center;
+      background: #949292;
+      border-bottom:solid ;
 }
   
   #logo{
-    height: 60px;
-    padding-left: 20px;
-    border-radius: 50%;
-    overflow: hidden;
+      height: 60px;
+      padding-left: 20px;
+      border-radius: 50%;
+      overflow: hidden;
 }
 
   .cordapagina{
-    background-color: rgb(205, 198, 198);
+      background-color: rgb(205, 198, 198);
 }
 
   #banner{
-    width: 100%;
-    margin-bottom: 10px;
-    height: 800px;
+      width: 100%;
+      margin-bottom: 10px;
+      height: 800px;
 }
 
   .txtprincipal{
-    padding: 20px;
-    background-color:#fff9f9;
-    margin-left: 25px;
-    margin-right: 25px;
-    border: solid;
-    margin-bottom: 1%;
+      padding: 20px;
+      background-color:#fff9f9;
+      margin-left: 25px;
+      margin-right: 25px;
+      border: solid;
+      margin-bottom: 1%;
 }
   
   .item-principal{
-    margin: 12px 0; 
+      margin: 12px 0; 
 }
   
   .titulocentralizado{
-    text-align: center;
-    padding: 30px;
+      text-align: center;
+      padding: 30px;
 }
   
   p{
@@ -55,18 +55,18 @@
 }
   
   em strong{
-     color: #FF0000;
+      color: #FF0000;
 }
   
   .itens{
-     font-style: italic;
-     border-left: 30px;
-     padding: 20px;
-     margin-left: 30px;
+      font-style: italic;
+      border-left: 30px;
+      padding: 20px;
+      margin-left: 30px;
 }
   
   .beneficios{
-     margin-left: 340px;
+      margin-left: 340px;
 }
    
   ul{
@@ -87,26 +87,26 @@
 }
 
 .foolter{
- 
-  padding: 30px;
-  border: solid #f3f6f8;
-  background: #949292;
+     padding: 30px;
+     border: solid #f3f6f8;
+     background: #949292;
+}
 
 .informaçoes{
-  font-size: 16px;
+     font-size: 16px;
 
 }
 .curiosidades{
-   border: solid;
-   background-color: #949292;
-   max-width: 100;
-   height: 100px;
-   text-align: center;
+     border: solid;
+     background-color: #949292;
+     max-width: 100;
+     height: 100px;
+     text-align: center;
 }
 
 .listfoolter{
-   display: inline-block;
-   vertical-align: top;
-   font-size: 13px;
-   font-size:#9f0909;
+     display: inline-block;
+     vertical-align: top;
+     font-size: 13px;
+     font-size:#9f0909;
 }
