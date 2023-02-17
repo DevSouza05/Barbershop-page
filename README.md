@@ -1,2 +1,1 @@
 # Barbershop-page
-# Barbershop-page
